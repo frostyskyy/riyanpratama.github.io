@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+div .row-footer {
+  font-size: 15px;
+  line-height: 0.5rem;
+  transition: all 0.5s ease;
+}
+
+div .row-footer:hover {
+  font-size: 18px;
+}
+section {
+  padding-top: 5rem;
+}
